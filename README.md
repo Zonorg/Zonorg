@@ -1,9 +1,9 @@
+# <div align="center">Hi there 👋 i'm Renzo Viscio</div>  
+  
+
 <div align="center">
 <img src="https://media.giphy.com/media/zLXBAnyOqmTHa/giphy.gif" align="center" height="150" width="250" />
 </div>  
-  
-
-# <div align="center">Hi there 👋 i'm Renzo Viscio</div>  
   
 
 ## <div align="center">Full-Stack Developer from Argentina</div>  
@@ -59,7 +59,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/zonorg" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/renzo-viscio-b69a13217" target="_blank">
