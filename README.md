@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<img src="https://res.cloudinary.com/dk1bxaazz/image/upload/v1688568368/Pr-Net/logo_oxgbib.png" align="center" height="150" width="250" />
+<img src="https://media.giphy.com/media/pjnfNhaFmkhxu/giphy.gif" align="center" height="150" width="250" />
 </div>  
   
 
