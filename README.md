@@ -12,10 +12,8 @@
 - 🌱 I’m currently learning Typescript, Tailwind  
   
 
-- 🛠️ Currently working on: "Hero's Path" (https://github.com/HeroPath)  
+- 🛠️ Currently working on: "Gecco" (https://gecco.com.mx/)  
   
-
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
