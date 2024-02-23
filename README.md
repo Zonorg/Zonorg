@@ -9,7 +9,7 @@
 ## <div align="center">Full-Stack Developer from Argentina</div>  
   
 
-- 🌱 I’m currently learning Typescript, Tailwind  
+- 🌱 I’m currently working with Next, Typescript, Tailwind  
   
 
 - 🛠️ Currently working on: "Gecco" (https://gecco.com.mx/)  
