@@ -1,11 +1,5 @@
 # <div align="center">Hi there 👋 i'm Renzo Viscio</div>  
   
-
-<div align="center">
-<img src="https://media.giphy.com/media/pjnfNhaFmkhxu/giphy.gif" align="center" height="150" width="250" />
-</div>  
-  
-
 ## <div align="center">Full-Stack Developer from Argentina</div>  
   
 
