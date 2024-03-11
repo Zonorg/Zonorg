@@ -4,12 +4,8 @@
   
 
 - 🌱 I’m currently working with Next, Typescript, Tailwind  
+    
   
-
-- 🛠️ Currently working on: "Gecco" (https://gecco.com.mx/)  
-  
-  
-
 <br/>  
 
 
