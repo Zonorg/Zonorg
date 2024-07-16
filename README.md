@@ -3,7 +3,7 @@
 ## <div align="center">Full-Stack Developer from Argentina</div>  
   
 
-- 🌱 I’m currently working with Next, Typescript, Tailwind  
+- 🌱 I’m currently working with Next, Typescript, Tailwind, Mongo, Firebase, Azure , Nodejs.
     
   
 <br/>  
